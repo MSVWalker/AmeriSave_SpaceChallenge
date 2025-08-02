@@ -18,7 +18,7 @@ At the time of assignment, the following details are available for each new cust
 - Communication Method
 - Lead Source
 - Destination
-- Launch Location
+- Launch Location 
 
 ---
 
